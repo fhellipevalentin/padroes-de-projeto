@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="br.com.cod3r.factory.apple.after.model.IPhone"><rhs name\="br.com.cod3r.factory.apple.after.model.IPhone11"/><rhs name\="br.com.cod3r.factory.apple.after.model.IPhone11Pro"/><rhs name\="br.com.cod3r.factory.apple.after.model.IPhoneX"/><rhs name\="br.com.cod3r.factory.apple.after.model.IPhoneXSMax"/></lhs><lhs name\="br.com.cod3r.factory.apple.halfSimple.model.IPhone"><rhs name\="br.com.cod3r.factory.apple.halfSimple.model.IPhone11"/><rhs name\="br.com.cod3r.factory.apple.halfSimple.model.IPhone11Pro"/><rhs name\="br.com.cod3r.factory.apple.halfSimple.model.IPhoneX"/><rhs name\="br.com.cod3r.factory.apple.halfSimple.model.IPhoneXSMax"/></lhs><lhs name\="br.com.cod3r.factory.apple.simple.model.IPhone"><rhs name\="br.com.cod3r.factory.apple.simple.model.IPhone11"/><rhs name\="br.com.cod3r.factory.apple.simple.model.IPhone11Pro"/><rhs name\="br.com.cod3r.factory.apple.simple.model.IPhoneX"/><rhs name\="br.com.cod3r.factory.apple.simple.model.IPhoneXSMax"/></lhs><lhs name\="br.com.cod3r.factory.apple.simple.factory.IPhoneSimpleFactory"><rhs name\="br.com.cod3r.factory.apple.simple.factory.IPhoneSimpleFactory"/></lhs><lhs name\="br.com.cod3r.factory.app.dbadapter.db.DB"><rhs name\="br.com.cod3r.factory.app.dbadapter.db.OracleDB"/><rhs name\="br.com.cod3r.factory.app.dbadapter.db.PostgresDB"/></lhs><lhs name\="br.com.cod3r.factory.app.dbadapter.factory.DBFactory"><rhs name\="br.com.cod3r.factory.app.dbadapter.factory.OracleFactory"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=1
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

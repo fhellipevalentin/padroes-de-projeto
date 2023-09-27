@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.after.model.IPhone11"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.after.factory.IPhoneFactory"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.after.model.IPhoneXSMax"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.after.model.IPhone"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.after.factory.IPhoneXFactory"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.after.model.IPhone11Pro"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.after.factory.IPhone11ProFactory"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.halfSimple.model.IPhone"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.halfSimple.model.IPhone11"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.halfSimple.model.IPhone11Pro"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.halfSimple.factory.IPhoneFactory"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.after.model.IPhoneX"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.halfSimple.model.IPhoneX"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.halfSimple.model.IPhoneXSMax"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.halfSimple.factory.IPhoneXFactory"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.halfSimple.factory.IPhone11Factory"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.simple.model.IPhone"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.simple.model.IPhone11"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.simple.model.IPhone11Pro"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.simple.model.IPhoneX"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.simple.model.IPhoneXSMax"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.apple.simple.factory.IPhoneSimpleFactory"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.app.dbadapter.db.OracleDB"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.app.dbadapter.db.PostgresDB"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.app.dbadapter.factory.DBFactory"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.app.dbadapter.factory.OracleFactory"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.app.dbadapter.db.DB"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.factory.app.dbadapter.factory.PostgresFactory"/>
+</qualifiedTypeNameHistroy>

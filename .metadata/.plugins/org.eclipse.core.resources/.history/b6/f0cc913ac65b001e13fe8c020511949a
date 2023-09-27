@@ -1,0 +1,5 @@
+package br.com.cod3r.factory.app.dbadapter.factory;
+
+public class PostgresFactory {
+
+}

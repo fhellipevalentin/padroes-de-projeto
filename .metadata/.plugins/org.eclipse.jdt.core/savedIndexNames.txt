@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+A:\cursos\Padrões de Projeto em Java\Secao2\ECLIPSE\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3945163737.index
+102915087.index
+980974520.index
