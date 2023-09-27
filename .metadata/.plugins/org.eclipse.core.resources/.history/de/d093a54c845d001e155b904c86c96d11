@@ -1,0 +1,18 @@
+package br.com.cod3r.abstractfactory.apple;
+
+import br.com.cod3r.abstractfactory.apple.factory.IPhoneFactory;
+import br.com.cod3r.abstractfactory.apple.factory.IPhoneXFactory;
+import br.com.cod3r.abstractfactory.apple.factory.abstractFactory.BrazilianRulesAbstractFactory;
+import br.com.cod3r.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory;
+
+public class Client {
+	
+	public static void main(String[] args) {
+		
+		CountryRulesAbstractFactory countryFactory = new BrazilianRulesAbstractFactory();
+		IPhoneFactory iphoneFactory = new IPhoneXFactory(countryFactory);
+		
+		System.out.println(iphoneFactory.orderIPhone("standard"));
+		
+	}
+}

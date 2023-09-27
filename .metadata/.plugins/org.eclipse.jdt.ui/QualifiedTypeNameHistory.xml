@@ -28,4 +28,9 @@
     <fullyQualifiedTypeName name="br.com.cod3r.factory.app.dbadapter.factory.OracleFactory"/>
     <fullyQualifiedTypeName name="br.com.cod3r.factory.app.dbadapter.db.DB"/>
     <fullyQualifiedTypeName name="br.com.cod3r.factory.app.dbadapter.factory.PostgresFactory"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.abstractfactory.apple.model.certificate.BrazilianCertificate"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.abstractfactory.apple.model.packing.BrazilianPacking"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.abstractfactory.apple.model.certificate.USCertificate"/>
+    <fullyQualifiedTypeName name="br.com.cod3r.abstractfactory.apple.model.packing.USPacking"/>
 </qualifiedTypeNameHistroy>
